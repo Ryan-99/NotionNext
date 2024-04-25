@@ -16,8 +16,8 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '与思维认知',
   HEO_HERO_TITLE_3: 'TANGLY1024.COM',
   HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
-  HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
+  HEO_HERO_TITLE_5: '收藏夹共享计划',
+  HEO_HERO_TITLE_LINK: 'https://echoly.evernow.com.cn',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
@@ -111,12 +111,12 @@ const CONFIG = {
   // 菜单配置
   HEO_MENU_INDEX: true, // 显示首页
   HEO_MENU_CATEGORY: false, // 显示分类
-  HEO_MENU_TAG: true, // 显示标签
-  HEO_MENU_ARCHIVE: true, // 显示归档
+  HEO_MENU_TAG: false, // 显示标签
+  HEO_MENU_ARCHIVE: false, // 显示归档
   HEO_MENU_SEARCH: true, // 显示搜索
 
   HEO_POST_LIST_COVER: true, // 列表显示文章封面
-  HEO_POST_LIST_COVER_HOVER_ENLARGE: true, // 列表鼠标悬停放大
+  HEO_POST_LIST_COVER_HOVER_ENLARGE: false, // 列表鼠标悬停放大
 
   HEO_POST_LIST_COVER_DEFAULT: true, // 封面为空时用站点背景做默认封面
   HEO_POST_LIST_SUMMARY: true, // 文章摘要
